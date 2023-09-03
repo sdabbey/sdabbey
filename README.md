@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://photos.app.goo.gl/NwofyiiiMwQkmJev6" width="100"/>
+</div>
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sdabbey)](https://git.io/streak-stats)
 <!--
