@@ -6,7 +6,7 @@
 </div>&nbsp;
 
 - 🔭 I’m currently working on webflows and web animations.
-- 🌱 I’m currently learning NextJS, Ionic and Ruby on Rails
+- 🌱 I’m currently learning Next.js, Ionic and Ruby on Rails
 - 👯 I’m looking to collaborate with like minded developers and companies.
 - 💬 Ask me about Django web apps and Ecommerce
 - 📫 How to reach me: https://portfolio.sdabbey.website
