@@ -1,6 +1,6 @@
 
 ### Hi there 👋
- I am Samuel Desmond Abbey Darko, a fullstack Web developer.
+ I am Samuel Desmond Abbey Darko.
 - 🔭 I’m currently working on webflows and web animations.
 - 🌱 I’m currently learning NextJS, Ionic and Ruby on Rails
 - 👯 I’m looking to collaborate with like minded developers and companies.
