@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=sdabbey&style=flat-square&color=blue" alt=""/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sdabbey)](https://git.io/streak-stats)
 <!--
 **sdabbey/sdabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
