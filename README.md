@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+[https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge]
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sdabbey)](https://git.io/streak-stats)
 <!--
 **sdabbey/sdabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
