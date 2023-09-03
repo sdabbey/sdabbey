@@ -1,7 +1,6 @@
-<div id="header" align="center">
-  <img src="https://res.cloudinary.com/hydrus/image/upload/v1693769762/media/1693438853012_1693438808731_0_IMG-20230712-WA0093_Quality_Enhance-Color_Calibrate_x4_ixwkug.jpg" style="border-radius: 50px;" width="100"/>
-</div>
+
 ### Hi there 👋
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sdabbey)](https://git.io/streak-stats)
 <!--
 **sdabbey/sdabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
