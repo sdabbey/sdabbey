@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sdabbey)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdabbey&border_radius=5&background=000000&sideNums=EBEBEB&currStreakLabel=EB5454&currStreakNum=EB5454&sideLabels=EBEBEB&border=EB5454&stroke=EBEBEB52)](https://git.io/streak-stats)
 <!--
 **sdabbey/sdabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
