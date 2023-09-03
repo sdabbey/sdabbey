@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with like minded developers and companies.
 - 💬 Ask me about Django web apps and Ecommerce
 - 📫 How to reach me: https://portfolio.sdabbey.website
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/samuel-desmond-abbey-darko-b5586b1b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9eYnNjt%2BT6qx6amA6LSfTg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
