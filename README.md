@@ -36,10 +36,4 @@
 </div>&nbsp;
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdabbey&border_radius=5&background=000000&sideNums=EBEBEB&currStreakLabel=EB5454&currStreakNum=EB5454&sideLabels=EBEBEB&border=EB5454&stroke=EBEBEB52&dates=EBEBEB)](https://git.io/streak-stats)
-<!--
-**sdabbey/sdabbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
