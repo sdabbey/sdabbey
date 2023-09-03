@@ -1,6 +1,6 @@
 
 ### Hi there 👋
- I am Samuel Desmond Abbey Darko.&nbsp; 
+ I am Samuel Desmond Abbey Darko.
  <img src="https://komarev.com/ghpvc/?username=sdabbey&style=flat-square&color=blue" alt=""/>
 - 🔭 I’m currently working on webflows and web animations.
 - 🌱 I’m currently learning NextJS, Ionic and Ruby on Rails
