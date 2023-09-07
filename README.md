@@ -22,7 +22,7 @@
 </div>
 
 <div>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lptcn18ow0m4twfjhrupkrwmf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
