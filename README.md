@@ -8,10 +8,10 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lptcn18ow0m4twfjhrupkrwmf&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 🔭 I’m currently working on webflows and web animations.
-- 🌱 I’m currently learning Next.js, Ionic and Ruby on Rails
+- 🌱 I’m currently learning Next.js, React Native and Ruby on Rails
 - 👯 I’m looking to collaborate with like minded developers and companies.
 - 💬 Ask me about Django web apps and Ecommerce
-- 📫 How to reach me: https://sdabbey.tech
+- 📫 How to reach me: https://www.sdabbey.tech
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/samuel-desmond-abbey-darko-b5586b1b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9eYnNjt%2BT6qx6amA6LSfTg%3D%3D">
